@@ -1,0 +1,55 @@
+{
+    "driver_information": {
+        "name": "Oliver Gonzalez",
+        "address": "102 Maple Ave, Alexandria, VA, 10234",
+        "date_of_birth": "1977-08-15",
+        "driver_license_number": "VA778899001",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2032-08-15"
+    },
+    "violations": [
+        {
+            "date": "2020-09-30",
+            "violation": "Reckless driving - generally",
+            "points": 6,
+            "duration": "11 years"
+        }
+    ],
+    "accidents": [],
+    "history": {
+        "suspensions": [
+            {
+                "date": "2019-12-12",
+                "reason": "Driving under the influence of alcohol",
+                "reinstated_date": "2020-06-12",
+                "points": 6,
+                "duration": "11 years"
+            }
+        ],
+        "safe_driving_points": {
+            "total_safe_points": 2
+        }
+    },
+    "vehicle_information": {
+        "vin": "5YJ3E1EA5MF123456",
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2021,
+        "vehicle_use": "Personal",
+        "annual_mileage": 8400,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 3,
+    "location": {
+        "type": "Suburban",
+        "population_density": "Medium",
+        "crime_rate": "Low"
+    }
+}

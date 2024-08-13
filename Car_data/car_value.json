@@ -1,0 +1,220 @@
+{
+    "Car Models": {
+        "Toyota Camry": {
+            "Year": 2019,
+            "Market Value": 21000,
+            "Repair Costs": {
+                "Minor": 450,
+                "Major": 3900
+            }
+        },
+        "Ford F-150": {
+            "Year": 2020,
+            "Market Value": 26000,
+            "Repair Costs": {
+                "Minor": 480,
+                "Major": 4100
+            }
+        },
+        "Chevrolet Silverado": {
+            "Year": 2016,
+            "Market Value": 23000,
+            "Repair Costs": {
+                "Minor": 470,
+                "Major": 4200
+            }
+        },
+        "Ram 1500": {
+            "Year": 2024,
+            "Market Value": 28000,
+            "Repair Costs": {
+                "Minor": 510,
+                "Major": 4400
+            }
+        },
+        "Toyota RAV4": {
+            "Year": 2017,
+            "Market Value": 22000,
+            "Repair Costs": {
+                "Minor": 430,
+                "Major": 4000
+            }
+        },
+        "Honda CR-V": {
+            "Year": 2019,
+            "Market Value": 24000,
+            "Repair Costs": {
+                "Minor": 460,
+                "Major": 4300
+            }
+        },
+        "Chevrolet Equinox": {
+            "Year": 2022,
+            "Market Value": 19000,
+            "Repair Costs": {
+                "Minor": 420,
+                "Major": 3700
+            }
+        },
+        "Ford Explorer": {
+            "Year": 2023,
+            "Market Value": 29000,
+            "Repair Costs": {
+                "Minor": 520,
+                "Major": 4600
+            }
+        },
+        "Nissan Rogue": {
+            "Year": 2018,
+            "Market Value": 18000,
+            "Repair Costs": {
+                "Minor": 410,
+                "Major": 3600
+            }
+        },
+        "Ford Escape": {
+            "Year": 2015,
+            "Market Value": 15000,
+            "Repair Costs": {
+                "Minor": 400,
+                "Major": 3500
+            }
+        },
+        "Toyota Tacoma": {
+            "Year": 2014,
+            "Market Value": 25000,
+            "Repair Costs": {
+                "Minor": 495,
+                "Major": 4450
+            }
+        },
+        "Chevrolet Tahoe": {
+            "Year": 2021,
+            "Market Value": 27500,
+            "Repair Costs": {
+                "Minor": 535,
+                "Major": 4850
+            }
+        },
+        "Hyundai Elantra": {
+            "Year": 2019,
+            "Market Value": 14000,
+            "Repair Costs": {
+                "Minor": 405,
+                "Major": 3550
+            }
+        },
+        "GMC Sierra": {
+            "Year": 2020,
+            "Market Value": 30000,
+            "Repair Costs": {
+                "Minor": 500,
+                "Major": 4500
+            }
+        },
+        "Hyundai Santa Fe": {
+            "Year": 2017,
+            "Market Value": 17000,
+            "Repair Costs": {
+                "Minor": 440,
+                "Major": 3900
+            }
+        },
+        "Jeep Wrangler": {
+            "Year": 2022,
+            "Market Value": 26000,
+            "Repair Costs": {
+                "Minor": 530,
+                "Major": 4800
+            }
+        },
+        "Subaru Forester": {
+            "Year": 2014,
+            "Market Value": 16000,
+            "Repair Costs": {
+                "Minor": 455,
+                "Major": 4050
+            }
+        },
+        "Honda Civic": {
+            "Year": 2018,
+            "Market Value": 18000,
+            "Repair Costs": {
+                "Minor": 420,
+                "Major": 3800
+            }
+        },
+        "Toyota Corolla": {
+            "Year": 2020,
+            "Market Value": 14000,
+            "Repair Costs": {
+                "Minor": 430,
+                "Major": 3000
+            }
+        },
+        "Nissan Sentra": {
+            "Year": 2019,
+            "Market Value": 15000,
+            "Repair Costs": {
+                "Minor": 400,
+                "Major": 3000
+            }
+        },
+        "Ford Fusion": {
+            "Year": 2017,
+            "Market Value": 14500,
+            "Repair Costs": {
+                "Minor": 410,
+                "Major": 3000
+            }
+        },
+        "Subaru Outback": {
+            "Year": 2019,
+            "Market Value": 15000,
+            "Repair Costs": {
+                "Minor": 450,
+                "Major": 3000
+            }
+        },
+        "Chevrolet Malibu": {
+            "Year": 2021,
+            "Market Value": 23000,
+            "Repair Costs": {
+                "Minor": 420,
+                "Major": 4100
+            }
+        },
+        "Honda Accord": {
+            "Year": 2018,
+            "Market Value": 19500,
+            "Repair Costs": {
+                "Minor": 400,
+                "Major": 3900
+            }
+        },
+        "Ford Focus": {
+            "Year": 2022,
+            "Market Value": 20000,
+            "Repair Costs": {
+                "Minor": 430,
+                "Major": 4200
+            }
+        },
+        "Nissan Altima": {
+            "Year": 2020,
+            "Market Value": 21500,
+            "Repair Costs": {
+                "Minor": 410,
+                "Major": 4000
+            }
+        },
+        "Tesla Model 3": {
+            "Year": 2021,
+            "Market Value": 35000,
+            "Repair Costs": {
+                "Minor": 460,
+                "Major": 4700
+            }
+        }
+    }
+}

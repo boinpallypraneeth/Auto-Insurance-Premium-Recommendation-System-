@@ -1,0 +1,56 @@
+{
+    "driver_information": {
+        "name": "Michael Lee",
+        "address": "456 Oak Rd, Fairfax, VA, 45678",
+        "date_of_birth": "1974-03-30",
+        "driver_license_number": "VA556677889",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2030-03-30"
+    },
+    "violations": [
+        {
+            "date": "2020-11-10",
+            "violation": "Speeding 15-19 mph above the posted speed limit",
+            "points": 4,
+            "duration": "5 years"
+        }
+    ],
+    "accidents": [
+        {
+            "date": "2022-02-18",
+            "type": "Minor",
+            "description": "Side-swipe with no injuries",
+            "at_fault": "Yes",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "history": {
+        "suspensions": [],
+        "safe_driving_points": {
+            "total_safe_points": 2
+        }
+    },
+    "vehicle_information": {
+        "vin": "3FA6P0K92HR294653",
+        "make": "Ford",
+        "model": "Fusion",
+        "year": 2017,
+        "vehicle_use": "Personal",
+        "annual_mileage": 9900,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 4,
+    "location": {
+        "type": "Suburban",
+        "population_density": "Medium",
+        "crime_rate": "Low"
+    }
+}

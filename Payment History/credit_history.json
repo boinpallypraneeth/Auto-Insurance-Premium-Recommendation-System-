@@ -1,0 +1,63 @@
+[
+    {
+        "driver_license_number": "VA123456789",
+        "ssn": "XXX-XX-8164",
+        "credit_score": 750,
+        "monthly_payments_on_time": true
+    },
+    {
+        "driver_license_number": "VA987654321",
+        "ssn": "XXX-XX-2143",
+        "credit_score": 700,
+        "monthly_payments_on_time": true
+    },
+    {
+        "driver_license_number": "VA112233445",
+        "ssn": "XXX-XX-8164",
+        "credit_score": 670,
+        "monthly_payments_on_time": false
+    },
+    {
+        "driver_license_number": "VA556677889",
+        "ssn": "XXX-XX-0153",
+        "credit_score": 710,
+        "monthly_payments_on_time": true
+    },
+    {
+        "driver_license_number": "VA998877665",
+        "ssn": "XXX-XX-1256",
+        "credit_score": 690,
+        "monthly_payments_on_time": false
+    },
+    {
+        "driver_license_number": "VA223344556",
+        "ssn": "XXX-XX-2000",
+        "credit_score": 770,
+        "monthly_payments_on_time": true
+    },
+    {
+        "driver_license_number": "VA667788990",
+        "ssn": "XXX-XX-8900",
+        "credit_score": 645,
+        "monthly_payments_on_time": false
+    },
+    {
+        "driver_license_number": "VA445566778",
+        "ssn": "XXX-XX-3425",
+        "credit_score": 714,
+        "monthly_payments_on_time": true
+    },
+    {
+        "driver_license_number": "VA334455667",
+        "ssn": "XXX-XX-6734",
+        "credit_score": 689,
+        "monthly_payments_on_time": false
+    },
+    {
+        "driver_license_number": "VA778899001",
+        "ssn": "XXX-XX-5654",
+        "credit_score": 609,
+        "monthly_payments_on_time": false
+    }
+]
+

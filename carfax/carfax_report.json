@@ -1,0 +1,294 @@
+{
+    "carfax_reports": [
+        {
+            "vin": "1HGCM82633A004352",
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2018,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 1,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 3,
+                "major_accidents": 0
+            },
+            "service_history": {
+                "service_records": 3
+            },
+            "repair_history": {
+                "minor_repairs": 2,
+                "major_repairs": 1
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 1
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 50000
+            }
+        },
+        {
+            "vin": "2T1BURHE8JC015872",
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2020,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 1,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 3,
+                "major_accidents": 1
+            },
+            "service_history": {
+                "service_records": 8
+            },
+            "repair_history": {
+                "minor_repairs": 1,
+                "major_repairs": 1
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 100000
+            }
+        },
+        {
+            "vin": "3N1AB7AP6KY237745",
+            "make": "Nissan",
+            "model": "Sentra",
+            "year": 2019,
+            "title_status": "Rebuilt",
+            "ownership_history": {
+                "number_of_owners": 3,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 2,
+                "major_accidents": 1
+            },
+            "service_history": {
+                "service_records": 7
+            },
+            "repair_history": {
+                "minor_repairs": 2,
+                "major_repairs": 3
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 80000
+            }
+        },
+        {
+            "vin": "3FA6P0K92HR294653",
+            "make": "Ford",
+            "model": "Fusion",
+            "year": 2017,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 4,
+                "purchase_type": "Lease"
+            },
+            "accident_history": {
+                "minor_accidents": 2,
+                "major_accidents": 1
+            },
+            "service_history": {
+                "service_records": 6
+            },
+            "repair_history": {
+                "minor_repairs": 2,
+                "major_repairs": 0
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 1
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 120000
+            }
+        },
+        {
+            "vin": "4S4BSANC9K3284561",
+            "make": "Subaru",
+            "model": "Outback",
+            "year": 2019,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 1,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 1,
+                "major_accidents": 0
+            },
+            "service_history": {
+                "service_records": 10
+            },
+            "repair_history": {
+                "minor_repairs": 3,
+                "major_repairs": 0
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 140000
+            }
+        },
+        {
+            "vin": "1G1ZE5ST7KF176021",
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "year": 2021,
+            "title_status": "Rebuilt",
+            "ownership_history": {
+                "number_of_owners": 2,
+                "purchase_type": "Lease"
+            },
+            "accident_history": {
+                "minor_accidents": 3,
+                "major_accidents": 3
+            },
+            "service_history": {
+                "service_records": 4
+            },
+            "repair_history": {
+                "minor_repairs": 1,
+                "major_repairs": 1
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 67000
+            }
+        },
+        {
+            "vin": "1HGCV1F13JA004321",
+            "make": "Honda",
+            "model": "Accord",
+            "year": 2018,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 2,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 3,
+                "major_accidents": 0
+            },
+            "service_history": {
+                "service_records": 10
+            },
+            "repair_history": {
+                "minor_repairs": 2,
+                "major_repairs": 0
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 150000
+            }
+        },
+        {
+            "vin": "1FADP3F25JL226789",
+            "make": "Ford",
+            "model": "Focus",
+            "year": 2022,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 1,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 2,
+                "major_accidents": 0
+            },
+            "service_history": {
+                "service_records": 2
+            },
+            "repair_history": {
+                "minor_repairs": 2,
+                "major_repairs": 0
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 6000
+            }
+        },
+        {
+            "vin": "1N4BL4CV6LC125678",
+            "make": "Nissan",
+            "model": "Altima",
+            "year": 2020,
+            "title_status": "Rebuilt",
+            "ownership_history": {
+                "number_of_owners": 4,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 3,
+                "major_accidents": 4
+            },
+            "service_history": {
+                "service_records": 6
+            },
+            "repair_history": {
+                "minor_repairs": 1,
+                "major_repairs": 1
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 1
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 120000
+            }
+        },
+        {
+            "vin": "5YJ3E1EA5MF123456",
+            "make": "Tesla",
+            "model": "Model 3",
+            "year": 2021,
+            "title_status": "Clean",
+            "ownership_history": {
+                "number_of_owners": 1,
+                "purchase_type": "Personal"
+            },
+            "accident_history": {
+                "minor_accidents": 2,
+                "major_accidents": 0
+            },
+            "service_history": {
+                "service_records": 2
+            },
+            "repair_history": {
+                "minor_repairs": 0,
+                "major_repairs": 0
+            },
+            "open_recalls": {
+                "number_of_open_recalls": 0
+            },
+            "current_mileage": {
+                "date": "2024-04-26",
+                "mileage": 10000
+            }
+        }
+    ]
+}

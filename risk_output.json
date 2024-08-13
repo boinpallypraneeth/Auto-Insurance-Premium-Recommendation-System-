@@ -1,0 +1,280 @@
+[
+    {
+        "driver_information": {
+            "name": "John Doe",
+            "address": "123 Main St, Anytown, VA, 12345",
+            "date_of_birth": "1985-06-15",
+            "driver_license_number": "VA123456789",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2029-06-15"
+        },
+        "vehicle_information": {
+            "vin": "1HGCM82633A004352",
+            "make": "Honda",
+            "model": "Civic",
+            "year": 2018,
+            "vehicle_use": "Personal",
+            "annual_mileage": 15000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 15.36,
+        "risk_level": "High Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Jane Smith",
+            "address": "234 Elm St, Richmond, VA, 23456",
+            "date_of_birth": "1992-08-20",
+            "driver_license_number": "VA987654321",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2028-08-20"
+        },
+        "vehicle_information": {
+            "vin": "2T1BURHE8JC015872",
+            "make": "Toyota",
+            "model": "Corolla",
+            "year": 2020,
+            "vehicle_use": "Personal",
+            "annual_mileage": 10000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 13.62,
+        "risk_level": "Moderate Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Emily Johnson",
+            "address": "345 Maple Ave, Norfolk, VA, 34567",
+            "date_of_birth": "1988-12-05",
+            "driver_license_number": "VA112233445",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2027-12-05"
+        },
+        "vehicle_information": {
+            "vin": "3N1AB7AP6KY237745",
+            "make": "Nissan",
+            "model": "Sentra",
+            "year": 2019,
+            "vehicle_use": "Personal",
+            "annual_mileage": 8000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control"
+            ]
+        },
+        "risk_score": 14.72,
+        "risk_level": "High Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Michael Lee",
+            "address": "456 Oak Rd, Fairfax, VA, 45678",
+            "date_of_birth": "1974-03-30",
+            "driver_license_number": "VA556677889",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2030-03-30"
+        },
+        "vehicle_information": {
+            "vin": "3FA6P0K92HR294653",
+            "make": "Ford",
+            "model": "Fusion",
+            "year": 2017,
+            "vehicle_use": "Personal",
+            "annual_mileage": 9900,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 5.96,
+        "risk_level": "Low Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Sara White",
+            "address": "567 Pine St, Virginia Beach, VA, 56789",
+            "date_of_birth": "1989-07-25",
+            "driver_license_number": "VA998877665",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2031-07-25"
+        },
+        "vehicle_information": {
+            "vin": "4S4BSANC9K3284561",
+            "make": "Subaru",
+            "model": "Outback",
+            "year": 2019,
+            "vehicle_use": "Personal",
+            "annual_mileage": 14000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 12.06,
+        "risk_level": "Moderate Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Carlos Rodriguez",
+            "address": "678 Spruce Way, Chesapeake, VA, 67890",
+            "date_of_birth": "1993-12-10",
+            "driver_license_number": "VA223344556",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2029-12-10"
+        },
+        "vehicle_information": {
+            "vin": "1G1ZE5ST7KF176021",
+            "make": "Chevrolet",
+            "model": "Malibu",
+            "year": 2021,
+            "vehicle_use": "Personal",
+            "annual_mileage": 13000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control"
+            ]
+        },
+        "risk_score": 15.22,
+        "risk_level": "High Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Angela Thompson",
+            "address": "789 Willow Ave, Arlington, VA, 78901",
+            "date_of_birth": "1984-04-22",
+            "driver_license_number": "VA667788990",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2032-04-22"
+        },
+        "vehicle_information": {
+            "vin": "1HGCV1F13JA004321",
+            "make": "Honda",
+            "model": "Accord",
+            "year": 2018,
+            "vehicle_use": "Personal",
+            "annual_mileage": 5000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 5.66,
+        "risk_level": "Low Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Brian Clark",
+            "address": "890 Cedar Rd, Roanoke, VA, 89012",
+            "date_of_birth": "1990-10-30",
+            "driver_license_number": "VA445566778",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2030-10-30"
+        },
+        "vehicle_information": {
+            "vin": "1FADP3F25JL226789",
+            "make": "Ford",
+            "model": "Focus",
+            "year": 2022,
+            "vehicle_use": "Personal",
+            "annual_mileage": 6000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 5.36,
+        "risk_level": "Low Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Natalie Martinez",
+            "address": "901 Pine St, Lynchburg, VA, 90123",
+            "date_of_birth": "1982-02-28",
+            "driver_license_number": "VA334455667",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2032-02-28"
+        },
+        "vehicle_information": {
+            "vin": "1N4BL4CV6LC125678",
+            "make": "Nissan",
+            "model": "Altima",
+            "year": 2020,
+            "vehicle_use": "Personal",
+            "annual_mileage": 12000,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 9.26,
+        "risk_level": "Low Risk"
+    },
+    {
+        "driver_information": {
+            "name": "Oliver Gonzalez",
+            "address": "102 Maple Ave, Alexandria, VA, 10234",
+            "date_of_birth": "1977-08-15",
+            "driver_license_number": "VA778899001",
+            "license_class": "Class D"
+        },
+        "license_status": {
+            "status": "Active",
+            "expiration_date": "2032-08-15"
+        },
+        "vehicle_information": {
+            "vin": "5YJ3E1EA5MF123456",
+            "make": "Tesla",
+            "model": "Model 3",
+            "year": 2021,
+            "vehicle_use": "Personal",
+            "annual_mileage": 8400,
+            "safety_features": [
+                "Automatic Emergency Braking",
+                "Electronic Stability Control",
+                "Adaptive Headlights"
+            ]
+        },
+        "risk_score": 9.04,
+        "risk_level": "Low Risk"
+    }
+]

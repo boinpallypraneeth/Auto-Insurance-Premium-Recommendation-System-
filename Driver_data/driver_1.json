@@ -1,0 +1,70 @@
+{
+    "driver_information": {
+        "name": "John Doe",
+        "address": "123 Main St, Anytown, VA, 12345",
+        "date_of_birth": "1985-06-15",
+        "driver_license_number": "VA123456789",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2029-06-15"
+    },
+    "violations": [
+        {
+            "date": "2020-05-10",
+            "violation": "Speeding 10-14 mph above the posted speed limit",
+            "points": 4,
+            "duration": "5 years"
+        },
+        {
+            "date": "2021-03-15",
+            "violation": "Failure to obey highway sign",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "accidents": [
+        {
+            "date": "2019-07-08",
+            "type": "Minor",
+            "description": "Rear-end collision, minor damage",
+            "at_fault": "Yes",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "history": {
+        "suspensions": [
+            {
+                "date": "2018-01-01",
+                "reason": "Driving under the influence",
+                "reinstated_date": "2018-07-01",
+                "points": 6,
+                "duration": "11 years"
+            }
+        ],
+        "safe_driving_points": {
+            "total_safe_points": 2
+        }
+    },
+    "vehicle_information": {
+        "vin": "1HGCM82633A004352",
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2018,
+        "vehicle_use": "Personal",
+        "annual_mileage": 15000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 3,
+    "location": {
+        "type": "Urban",
+        "population_density": "High",
+        "crime_rate": "Moderate"
+    }
+}

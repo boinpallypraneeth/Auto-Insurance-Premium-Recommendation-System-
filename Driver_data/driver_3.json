@@ -1,0 +1,60 @@
+{
+    "driver_information": {
+        "name": "Emily Johnson",
+        "address": "345 Maple Ave, Norfolk, VA, 34567",
+        "date_of_birth": "1988-12-05",
+        "driver_license_number": "VA112233445",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2027-12-05"
+    },
+    "violations": [
+        {
+            "date": "2020-05-20",
+            "violation": "Driving without lights",
+            "points": 3,
+            "duration": "3 years"
+        },
+        {
+            "date": "2023-03-15",
+            "violation": "Failure to stop at a railroad crossing",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "accidents": [],
+    "history": {
+        "suspensions": [
+            {
+                "date": "2019-02-01",
+                "reason": "Driving under the influence",
+                "reinstated_date": "2019-08-01",
+                "points": 6,
+                "duration": "11 years"
+            }
+        ],
+        "safe_driving_points": {
+            "total_safe_points": 0
+        }
+    },
+    "vehicle_information": {
+        "vin": "3N1AB7AP6KY237745",
+        "make": "Nissan",
+        "model": "Sentra",
+        "year": 2019,
+        "vehicle_use": "Personal",
+        "annual_mileage": 8000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control"
+        ]
+    },
+    "insured_for": 3,
+    "location": {
+        "type": "Urban",
+        "population_density": "High",
+        "crime_rate": "Moderate"
+    }
+}

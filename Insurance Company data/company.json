@@ -1,0 +1,50 @@
+{
+    "company_info": {
+        "name": "InsuraMax",
+        "address": {
+            "street": "123 poplar st",
+            "city": "Jercy City",
+            "state": "NJ",
+            "zip_code": "23675"
+        },
+        "phone_number": "555-1234",
+        "email": "contact@insuramax.com",
+        "website": "www.insuramax.com"
+    },
+    "services": [
+        {
+            "type": "Liability Insurance",
+            "description": "Covers damages to others caused by the policyholder while operating an automobile."
+        },
+        {
+            "type": "Collision+Liability Insurance",
+            "description": "Covers damage to the policyholder's car from a collision."
+        },
+        {
+            "type": "liability+collision+Comprehensive Insurance",
+            "description": "Covers damage to the policyholder's car that is not caused by a collision."
+        },
+        {
+            "type": "Roadside Assistance",
+            "description": "Provides assistance such as towing, battery jump start, flat tire change, and lock-out assistance."
+        }
+    ],
+    "operational_costs": 350000,
+    "claim_costs": 50000,
+    "profit_margin": 0.10,
+    "expected_customer_volume": 1000,
+    "claim_frequency_and_severity": {
+        "liability": {
+            "frequency": 0.20,
+            "severity": 800
+        },
+        "liability+collision": {
+            "frequency": 0.15,
+            "severity": 3000
+        },
+        "liability+collision+comprehensive": {
+            "frequency": 0.08,
+            "severity": 8000
+        }
+    }
+}

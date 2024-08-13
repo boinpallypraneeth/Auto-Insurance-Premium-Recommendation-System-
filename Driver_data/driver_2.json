@@ -1,0 +1,62 @@
+{
+    "driver_information": {
+        "name": "Jane Smith",
+        "address": "234 Elm St, Richmond, VA, 23456",
+        "date_of_birth": "1992-08-20",
+        "driver_license_number": "VA987654321",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2028-08-20"
+    },
+    "violations": [
+        {
+            "date": "2021-06-15",
+            "violation": "Reckless driving - speeding 20 mph or more above the posted speed limit",
+            "points": 6,
+            "duration": "11 years"
+        },
+        {
+            "date": "2022-04-10",
+            "violation": "Improper turn",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "accidents": [
+        {
+            "date": "2021-07-22",
+            "type": "Major",
+            "description": "Collision with another vehicle, major damage",
+            "at_fault": "Yes",
+            "points": 4,
+            "duration": "5 years"
+        }
+    ],
+    "history": {
+        "suspensions": [],
+        "safe_driving_points": {
+            "total_safe_points": 1
+        }
+    },
+    "vehicle_information": {
+        "vin": "2T1BURHE8JC015872",
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2020,
+        "vehicle_use": "Personal",
+        "annual_mileage": 10000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 4,  
+    "location": {
+        "type": "Suburban",
+        "population_density": "Medium",
+        "crime_rate": "Low"
+    }
+}

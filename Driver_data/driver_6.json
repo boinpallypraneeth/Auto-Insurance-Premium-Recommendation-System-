@@ -1,0 +1,61 @@
+{
+    "driver_information": {
+        "name": "Carlos Rodriguez",
+        "address": "678 Spruce Way, Chesapeake, VA, 67890",
+        "date_of_birth": "1993-12-10",
+        "driver_license_number": "VA223344556",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2029-12-10"
+    },
+    "violations": [
+        {
+            "date": "2022-09-22",
+            "violation": "Failure to stop at the scene of a crash, property damage",
+            "points": 6,
+            "duration": "11 years"
+        },
+        {
+            "date": "2021-06-07",
+            "violation": "Improper driving",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "accidents": [
+        {
+            "date": "2020-03-15",
+            "type": "Major",
+            "description": "Head-on collision with multiple injuries",
+            "at_fault": "Yes",
+            "points": 4,
+            "duration": "5 years"
+        }
+    ],
+    "history": {
+        "suspensions": [],
+        "safe_driving_points": {
+            "total_safe_points": 1
+        }
+    },
+    "vehicle_information": {
+        "vin": "1G1ZE5ST7KF176021",
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2021,
+        "vehicle_use": "Personal",
+        "annual_mileage": 13000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control"
+        ]
+    },
+    "insured_for": 4,
+    "location": {
+        "type": "Urban",
+        "population_density": "High",
+        "crime_rate": "Moderate"
+    }
+}

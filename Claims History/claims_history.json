@@ -1,0 +1,72 @@
+[
+    {
+        "driver_license_number": "VA123456789",
+        "previous_claims": {
+            "minor_claims": 1,
+            "total_loss": 1
+        }
+    },
+    {
+        "driver_license_number": "VA987654321",
+        "previous_claims": {
+            "minor_claims": 0,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA112233445",
+        "previous_claims": {
+            "minor_claims": 1,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA556677889",
+        "previous_claims": {
+            "minor_claims": 1,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA998877665",
+        "previous_claims": {
+            "minor_claims": 0,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA223344556",
+        "previous_claims": {
+            "minor_claims": 2,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA667788990",
+        "previous_claims": {
+            "minor_claims": 4,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA445566778",
+        "previous_claims": {
+            "minor_claims": 0,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA334455667",
+        "previous_claims": {
+            "minor_claims": 0,
+            "total_loss": 0
+        }
+    },
+    {
+        "driver_license_number": "VA778899001",
+        "previous_claims": {
+            "minor_claims": 0,
+            "total_loss": 0
+        }
+    }
+]

@@ -1,0 +1,56 @@
+{
+    "driver_information": {
+        "name": "Natalie Martinez",
+        "address": "901 Pine St, Lynchburg, VA, 90123",
+        "date_of_birth": "1982-02-28",
+        "driver_license_number": "VA334455667",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2032-02-28"
+    },
+    "violations": [
+        {
+            "date": "2022-06-19",
+            "violation": "HOV violation, second or subsequent offense",
+            "points": 3,
+            "duration": "5 years"
+        }
+    ],
+    "accidents": [
+        {
+            "date": "2021-08-14",
+            "type": "Major",
+            "description": "Collision at intersection with injuries",
+            "at_fault": "Yes",
+            "points": 4,
+            "duration": "5 years"
+        }
+    ],
+    "history": {
+        "suspensions": [],
+        "safe_driving_points": {
+            "total_safe_points": 1
+        }
+    },
+    "vehicle_information": {
+        "vin": "1N4BL4CV6LC125678",
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2020,
+        "vehicle_use": "Personal",
+        "annual_mileage": 12000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 3,
+    "location": {
+        "type": "Urban",
+        "population_density": "High",
+        "crime_rate": "Moderate"
+    }
+}

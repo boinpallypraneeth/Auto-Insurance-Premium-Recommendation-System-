@@ -1,0 +1,53 @@
+{
+    "driver_information": {
+        "name": "Brian Clark",
+        "address": "890 Cedar Rd, Roanoke, VA, 89012",
+        "date_of_birth": "1990-10-30",
+        "driver_license_number": "VA445566778",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2030-10-30"
+    },
+    "violations": [
+        {
+            "date": "2019-05-23",
+            "violation": "Improper backing, stopping or turning",
+            "points": 3,
+            "duration": "3 years"
+        },
+        {
+            "date": "2021-11-11",
+            "violation": "Driving while using earphones",
+            "points": 3,
+            "duration": "3 years"
+        }
+    ],
+    "accidents": [],
+    "history": {
+        "suspensions": [],
+        "safe_driving_points": {
+            "total_safe_points": 1
+        }
+    },
+    "vehicle_information": {
+        "vin": "1FADP3F25JL226789",
+        "make": "Ford",
+        "model": "Focus",
+        "year": 2022,
+        "vehicle_use": "Personal",
+        "annual_mileage": 6000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 5,
+    "location": {
+        "type": "Rural",
+        "population_density": "Low",
+        "crime_rate": "Very Low"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "driver_information": {
+        "name": "Sara White",
+        "address": "567 Pine St, Virginia Beach, VA, 56789",
+        "date_of_birth": "1989-07-25",
+        "driver_license_number": "VA998877665",
+        "license_class": "Class D"
+    },
+    "license_status": {
+        "status": "Active",
+        "expiration_date": "2031-07-25"
+    },
+    "violations": [
+        {
+            "date": "2019-08-05",
+            "violation": "Reckless driving - speeding in excess of 85 mph",
+            "points": 6,
+            "duration": "11 years"
+        }
+    ],
+    "accidents": [],
+    "history": {
+        "suspensions": [
+            {
+                "date": "2021-05-14",
+                "reason": "Driving under the influence of alcohol",
+                "reinstated_date": "2021-11-14",
+                "points": 6,
+                "duration": "11 years"
+            }
+        ],
+        "safe_driving_points": {
+            "total_safe_points": 0
+        }
+    },
+    "vehicle_information": {
+        "vin": "4S4BSANC9K3284561",
+        "make": "Subaru",
+        "model": "Outback",
+        "year": 2019,
+        "vehicle_use": "Personal",
+        "annual_mileage": 14000,
+        "safety_features": [
+            "Automatic Emergency Braking",
+            "Electronic Stability Control",
+            "Adaptive Headlights"
+        ]
+    },
+    "insured_for": 3,
+    "location": {
+        "type": "Urban",
+        "population_density": "High",
+        "crime_rate": "Moderate"
+    }
+}
